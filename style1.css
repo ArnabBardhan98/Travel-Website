@@ -1,0 +1,96 @@
+h1{
+    color: rgb(225, 225, 239);
+    background-color: black;
+    text-align: center;
+}
+nav a{
+    font-size:larger;
+    text-decoration:none;
+    color:white;
+    background-color: black;
+    text-align:centre;
+    padding:20px;
+    float:left;
+
+}
+nav{
+    background-color: black;
+    padding:20px;
+    overflow:hidden
+}
+nav a:hover{
+    color:tomato;
+}
+.clip-circle{
+    clip-path: circle(50% at 50% 50%);
+}
+.box1{
+border:5px solid black;
+width: 200px;
+height:40px;
+border-radius: 3px;
+background-color:black;
+padding: auto;
+font-family: dancing script, Geneva, Tahoma, sans-serif;
+font-size:25px;
+font-weight: bolder;
+text-align: center;
+color:white;
+}
+.box1:hover{
+    color: red;
+}
+.box2{
+    border:5px solid black;
+width: 200px;
+height:40px;
+border-radius: 3px;
+background-color:black;
+padding: auto;
+font-family: dancing script, Geneva, Tahoma, sans-serif;
+font-size:25px;
+font-weight: bolder;
+text-align: center;
+color:white;
+}
+.box2:hover{
+    color: red;
+}
+.box3{
+    border:5px solid black;
+width: 200px;
+height:40px;
+border-radius: 3px;
+background-color:black;
+padding: auto;
+font-family: dancing script, Geneva, Tahoma, sans-serif;
+font-size:25px;
+font-weight: bolder;
+text-align: center;
+color:white;
+}
+.box3:hover{
+color:red;
+}
+footer a{
+    font-size:medium;
+    text-decoration:none;
+    color:white;
+    background-color: rgb(32, 9, 152);
+    text-align:cover;
+    padding:10px;
+    float:left;
+    word-spacing:3px;
+}
+footer{
+    background-color:rgb(32, 9, 152) ;
+}
+footer a:hover{
+    color:aquamarine
+}
+.rapper{
+    background-color: blanchedalmond;
+}
+body{
+    background-color: rgb(191, 106, 75);
+}
